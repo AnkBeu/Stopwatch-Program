@@ -1,2 +1,2 @@
 # Stopwatch-Program
-Simple STopwatch Program using HTML,CSS and Javascript
+Simple Stopwatch Program using HTML,CSS and Javascript
